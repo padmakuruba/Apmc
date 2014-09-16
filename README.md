@@ -1,4 +1,4 @@
 Apmc
 ====
 
-Agriculture produce marketing committee
+Agriculture produce marketing committee,Bangalore
